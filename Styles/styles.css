@@ -1,0 +1,38 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+body { 
+    background-color: purple;
+}
+
+.card {
+    margin:5rem 30rem;
+    background-color: lightpink;
+    text-align: center;
+    padding: 2rem;
+}
+
+img { 
+    margin-top: -2rem;
+    margin-right: 2em;
+    margin: 0 auto;
+    width: 250px;
+}
+
+
+button {
+    margin: 4rem auto 0.5rem;
+    color: white;
+    border-radius: 15px;
+    background-color: black;
+    width: 15rem ;
+    height: 2rem;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}

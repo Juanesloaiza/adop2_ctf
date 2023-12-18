@@ -1,0 +1,23 @@
+body{
+    background-color: purple;
+}
+.card {
+    margin:2rem 38rem;
+    background-color: lightpink;
+    text-align: center;
+    padding: 20rem;
+}
+
+.card2 {
+    margin:2rem 33rem;
+    background-color: lightpink;
+    text-align: center;
+    padding: 20rem;
+}
+
+img { 
+    margin-top: -2rem;
+    margin-right: 2em;
+    margin: 0 auto;
+    width: 250px;
+}
